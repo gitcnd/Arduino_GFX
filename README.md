@@ -1,3 +1,10 @@
+# Forked from https://github.com/moononournation/Arduino_GFX/tree/master
+
+Experimenting with...
+
+1. Adding some new driver chips, and
+2. building micropython general-purpose binary display driver modules
+
 # Arduino_GFX
 
 Arduino_GFX is a Arduino graphics library supporting various displays with various data bus interfaces.
